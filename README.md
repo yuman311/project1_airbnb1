@@ -32,4 +32,7 @@ About rental price, the number of bedrooms and bathrooms, neighborhood and type 
 
 Blog
 
+https://kakshi123.blogspot.com/
+
+
 
