@@ -13,14 +13,17 @@ What kinds of Airbnb homes are popular?
 What are the most influential features about the rental price?
 
 Data
+
 The data about Airbnb in Seattle can be downloaded from Kaggle:
 
 Seattle Airbnb Open Data
 
 File Descriptions
+
 Jupyter Notebook (seattle_airbnb.ipynb) works related to the above questions.
 
 Result
+
 Because of the weather, spring and summer are the busy season with higher rental price. But there still remains a question, why dose January have the highest occupancy rate?
 
 Airbnb homes which have entertainment nearby, a soon response from host or flexible cancellation policy are more popular.
@@ -28,4 +31,5 @@ Airbnb homes which have entertainment nearby, a soon response from host or flexi
 About rental price, the number of bedrooms and bathrooms, neighborhood and type of properties play important roles.
 
 Blog
-What Seattle Airbnb Data Can Tell Us
+
+
